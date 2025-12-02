@@ -1,0 +1,6 @@
+__pycache__/
+# 忽略构建文件夹
+build/
+# 忽略Python包信息文件夹
+*.egg-info/
+*.mat
